@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "_comment": "Boold",
+      "mac_address": "15:57:5e:78:e2:8",
+      "end_date": "2023-12-4"
+    },
+    {
+      "_comment": "MV",
+      "mac_address": "bd:7a:68:6b:34:c4",
+      "end_date": "2077-1-1"
+    },
+    {
+      "_comment": "user",
+      "mac_address": "",
+      "end_date": "2077-1-1"
+    },
+    {
+      "_comment": "user",
+      "mac_address": "",
+      "end_date": "2077-1-1"
+    }
+  ],
+  "time_zone": "Africa/Cairo"
+}
