@@ -1,24 +1,16 @@
 {
   "users": [
     {
-      "_comment": "Boold",
-      "mac_address": "88:57:c4:6a:cc:4c",
-      "end_date": "2077-12-4"
+      "user_name": "Boold",
+      "discord_user": "1_bb",
+      "mac_address": "15:57:5e:78:e2:88",
+      "end_date": "2030-01-1 23:59:59"
     },
     {
-      "_comment": "MV",
-      "mac_address": "bd:7a:68:6b:34:c4",
-      "end_date": "2077-1-1"
-    },
-    {
-      "_comment": "user",
-      "mac_address": "",
-      "end_date": "2077-1-1"
-    },
-    {
-      "_comment": "user",
-      "mac_address": "",
-      "end_date": "2077-1-1"
+      "user_name": "Mv",
+      "discord_user": "mv_exe",
+      "mac_address": "**:**:**:**:**:**",
+      "end_date": "2030-01-1 23:59:59"
     }
-  ],
+  ]
 }
