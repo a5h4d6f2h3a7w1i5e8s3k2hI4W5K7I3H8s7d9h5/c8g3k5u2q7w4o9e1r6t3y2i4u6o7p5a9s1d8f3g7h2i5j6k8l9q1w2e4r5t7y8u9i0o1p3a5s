@@ -5,14 +5,16 @@
       "discord_user": "1_bb",
       "mac_address": "15:57:5e:78:e2:88",
       "end_date": "2030-1-1 23:59:59",
-      "postion_color":"get_pixel_color(1385, 22) == (0, 0, 0)"
+      "postion":"get_pixel_color(1385, 22)",
+      "color":"(0, 0, 0)"
     },
     {
       "user_name": "MV",
       "discord_user": "mv_exe",
       "mac_address": "91:46:18:63:8c:33",
       "end_date": "2077-12-13 23:59:59",
-      "postion_color":"get_pixel_color(1385, 22) == (0, 0, 0)"
+      "postion":"get_pixel_color(1385, 22)",
+      "color":"(0, 0, 0)"
     }
   ]
 }
