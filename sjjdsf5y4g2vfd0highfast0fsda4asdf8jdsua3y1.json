@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "user_name": "Boold",
+      "discord_user": "1_bb",
+      "mac_address": "15:57:5e:78:e2:88",
+      "end_date": "2030-03-25 03:03:00"
+    },
+    {
+      "user_name": "Mv",
+      "discord_user": "mv_exe",
+      "mac_address": "**:**",
+      "end_date": "2030-01-1 23:59:59"
+    }
+  ]
+}
