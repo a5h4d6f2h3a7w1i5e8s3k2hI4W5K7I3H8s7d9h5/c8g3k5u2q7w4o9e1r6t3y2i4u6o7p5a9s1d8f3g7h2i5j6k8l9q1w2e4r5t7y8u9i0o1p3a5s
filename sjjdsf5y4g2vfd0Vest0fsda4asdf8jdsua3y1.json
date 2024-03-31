@@ -5,24 +5,24 @@
       "discord_user": "1_bb",
       "mac_address": "15:57:5e:78:e2:88",
       "end_date": "2030-1-1 23:59:59",
-      "postion":"get_pixel_color(1160, 273)",
-      "color":"(243, 208, 109)"
+      "position": [861, 359],
+      "color": [245, 211, 112]
     },
     {
       "user_name": "Eldaly",
       "discord_user": "eldaly15",
       "mac_address": "0d:37:dd:74:d0:43",
       "end_date": "2030-1-1 23:59:59",
-      "postion":"get_pixel_color(1769, 78)",
-      "color":"(170,0,0)"
+      "position": [861, 359],
+      "color": [245, 211, 112]
     },
     {
       "user_name": "MV",
       "discord_user": "mv_exe",
       "mac_address": "b8:e3:8e:38:e0:80",
       "end_date": "2077-12-13 23:59:59",
-      "postion":"get_pixel_color(1385, 22)",
-      "color":"(0, 0, 0)"
+      "position": [861, 359],
+      "color": [245, 211, 112]
     }
   ]
 }
