@@ -87,16 +87,6 @@
       "end_date": "2025-01-20 10:45:00"
     },
     {
-      "user_name": "test",
-      "discord_user": "1_bb",
-      "discord_user_id": "581617388886425601",
-      "user_img": "https://cdn.discordapp.com/avatars/581617388886425601/9b91be5dd634f376cbddc30be0ae5073.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1330782283246075965/_VHJBnYZvWVf55-984WafX17T8qhGFfbGSlkvejYfBerMg3oP8Xi7Jxwdm7FyVWtQwHI",
-      "mac_address": "fff",
-      "sub_plan": "Free Trial",
-      "end_date": "2025-01-21 08:13:39"
-    },
-    {
       "user_name": "Omstar",
       "discord_user": "omstar6",
       "discord_user_id": "733169256916844625",
@@ -104,7 +94,7 @@
       "discord_webhook_url": "https://discord.com/api/webhooks/1330783328403456010/rtC2lJ7pnG9U1kuRyQVQMq4etIGT4PptbXr_JY0WdO0Unl6VpPlHsDJyi5EX2cMnWpou",
       "mac_address": "tGebgHK4DnEI4AvedQMksPL0vQEP6jnA/uZS/ClDGMKH6Xrhq4vK9XxGtCHJcx9M",
       "sub_plan": "Free Trial",
-      "end_date": "2025-01-21 08:17:48"
+      "end_date": "2025-01-21 08:26:48"
     }
   ]
 }
