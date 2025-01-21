@@ -42,7 +42,7 @@
       "discord_user_id": "643074852634230795",
       "user_img": "https://cdn.discordapp.com/avatars/643074852634230795/3d79565465809794cfed135a878e8977.png?size=1024",
       "discord_webhook_url": "https://discord.com/api/webhooks/1330175120844521573/vabN67nWDxbKbiqYGYRZIow6FnTnPVa0HbKKJo_xkk3up00uhIowPfbLrB0SYfbIAb7K",
-      "mac_address": "0FlBNVL2/1DRsF0ur+96JC6oPsYZ0xkLFMcJZ4pr1lIGhiS0QKb0SW5FZn",
+      "mac_address": "xxxxxxxxxxxxxxx",
       "sub_plan": "Premium",
       "end_date": "2025-02-19 07:35:59"
     },
@@ -64,7 +64,7 @@
       "discord_webhook_url": "https://discord.com/api/webhooks",
       "mac_address": "EKFMQrUZHUAbwxuZK/m+T2jllp1RRBlHoGDESSfQPzBWFRAOAl+7OW+sOOeRTxwt",
       "sub_plan": "Free Trial",
-      "end_date": "2025-01-20 10:45:00"
+      "end_date": "2025-01-21 10:00:00"
     },
     {
       "user_name": "mody",
