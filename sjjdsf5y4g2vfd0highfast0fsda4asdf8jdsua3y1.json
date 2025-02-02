@@ -196,6 +196,17 @@
       "sub_plan": "Premium",
       "end_date": "2025-03-03 07:04:30",
       "in_server": true
+    },
+    {
+      "user_name": "VIII",
+      "discord_user": "vivora9213",
+      "discord_user_id": "1120892435099304016",
+      "user_img": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "discord_webhook_url": null,
+      "mac_address": "tytttttttttttttttttttt",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-03 07:07:27",
+      "in_server": false
     }
   ]
 }
