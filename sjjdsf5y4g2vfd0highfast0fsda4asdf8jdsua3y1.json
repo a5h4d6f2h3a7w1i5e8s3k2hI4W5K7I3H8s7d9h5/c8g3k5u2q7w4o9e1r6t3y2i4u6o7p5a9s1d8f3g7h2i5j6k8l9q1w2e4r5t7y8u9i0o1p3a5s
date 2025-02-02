@@ -7,17 +7,6 @@
   ],
   "users": [
     {
-      "user_name": "Boold",
-      "discord_user": "1_bb",
-      "discord_user_id": "581617388886425601",
-      "user_img": "https://cdn.discordapp.com/avatars/581617388886425601/9b91be5dd634f376cbddc30be0ae5073.png?size=1024",
-      "discord_webhook_url": null,
-      "mac_address": "test",
-      "sub_plan": "Free Trial",
-      "end_date": "2025-02-03 06:47:34",
-      "in_server": false
-    },
-    {
       "user_name": "MV",
       "discord_user": "mv999exe",
       "discord_user_id": "1100814498438336613",
