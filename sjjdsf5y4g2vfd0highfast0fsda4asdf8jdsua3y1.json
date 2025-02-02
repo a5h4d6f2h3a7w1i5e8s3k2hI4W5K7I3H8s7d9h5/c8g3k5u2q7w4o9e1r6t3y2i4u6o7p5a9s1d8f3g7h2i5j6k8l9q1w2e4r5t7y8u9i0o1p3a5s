@@ -185,6 +185,17 @@
       "mac_address": "x9aZW5K9TAvYxE4RjD4StrL7R0WRyaUWqc2hmgx3mL50LSojZnDrrUejd3K4eOcs",
       "sub_plan": "Free Trial",
       "end_date": "2025-02-03 06:30:05"
+    },
+    {
+      "user_name": "Mavis",
+      "discord_user": "mohamedmavis",
+      "discord_user_id": "1073093458455171142",
+      "user_img": "https://cdn.discordapp.com/avatars/1073093458455171142/5f616cefb5d62ac0c6999cc96ee723ec.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1335717498649186437/SpI868rlMjcgLgkCUx4aDZM6F4Ep5cASblK__iYcNTncd_3nhbJWSkqCZqssI2MVnkfI",
+      "mac_address": "ayMVhg3Zm1r6G12SMEb36ZjYpiQ2kWrHTXIi21Ijt60kIR/UioZ/66C5xTCwbPDj",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-03 07:04:30",
+      "in_server": true
     }
   ]
 }
