@@ -128,16 +128,6 @@
       "end_date": "2025-02-03 17:01:25"
     },
     {
-      "user_name": "MaviS",
-      "discord_user": "mohamedmavis",
-      "discord_user_id": "1073093458455171142",
-      "user_img": "https://cdn.discordapp.com/avatars/1073093458455171142/5f616cefb5d62ac0c6999cc96ee723ec.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1335586004022853713/oUvoJj-npCnxVkZIO3yFpcpnnaPyhXeVe62s2kxGkc3RUnrYYIJisCg_agzzVeXPFKd5",
-      "mac_address": "ayMVhg3Zm1r6G12SMEb36ZjYpiQ2kWrHTXIi21Ijt60kIR/UioZ/66C5xTCwbPDj",
-      "sub_plan": "Premium",
-      "end_date": "2035-02-19 07:35:59"
-    },
-    {
       "user_name": "aboadam",
       "discord_user": "PVA Bot",
       "discord_user_id": "1331218770315841567",
@@ -206,17 +196,6 @@
       "mac_address": "x9aZW5K9TAvYxE4RjD4StrL7R0WRyaUWqc2hmgx3mL50LSojZnDrrUejd3K4eOcs",
       "sub_plan": "Free Trial",
       "end_date": "2025-02-03 06:30:05"
-    },
-    {
-      "user_name": "VIVORA",
-      "discord_user": "vivora9213",
-      "discord_user_id": "1120892435099304016",
-      "user_img": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "discord_webhook_url": null,
-      "mac_address": "tttttttttttttt",
-      "sub_plan": "Free Trial",
-      "end_date": "2025-02-03 06:55:38",
-      "in_server": false
     }
   ]
 }
