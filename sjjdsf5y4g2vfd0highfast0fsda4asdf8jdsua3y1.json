@@ -196,6 +196,17 @@
       "mac_address": "x9aZW5K9TAvYxE4RjD4StrL7R0WRyaUWqc2hmgx3mL50LSojZnDrrUejd3K4eOcs",
       "sub_plan": "Free Trial",
       "end_date": "2025-02-03 06:30:05"
+    },
+    {
+      "user_name": "Pikachu",
+      "discord_user": ".apikachu",
+      "discord_user_id": "757676861391110215",
+      "user_img": "https://cdn.discordapp.com/avatars/757676861391110215/847b8ffc99128aaddc415b6c8eee9df8.png?size=1024",
+      "discord_webhook_url": null,
+      "mac_address": "buCrZG0Dd4kHEQfpx0EoKO1jxJEbdp6tQ8iRQ4/YWZ8us8Sxt4QjfoFBz8nd+gaO",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-04 22:03:12",
+      "in_server": false
     }
   ]
 }
