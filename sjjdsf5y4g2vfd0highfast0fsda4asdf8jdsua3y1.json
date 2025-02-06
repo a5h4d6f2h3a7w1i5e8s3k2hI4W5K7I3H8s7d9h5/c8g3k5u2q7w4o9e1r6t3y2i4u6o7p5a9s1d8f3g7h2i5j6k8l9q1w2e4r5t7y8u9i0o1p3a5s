@@ -207,6 +207,17 @@
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-06 22:03:12",
       "in_server": false
+    },
+    {
+      "user_name": "naruto",
+      "discord_user": "naruto00000",
+      "discord_user_id": "726128368067543103",
+      "user_img": "https://cdn.discordapp.com/avatars/726128368067543103/cb7560cb41fbd62365aa4dc8ca43a3e7.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1337006107977056281/Z31qteQ90Nt8eWqi8D_7k-sJ_9WZruJVCCnyrWBa7UoLz9ipgfOkbJLDXAhqjuGLoJ54",
+      "mac_address": "YHygmDqQvQmekQMuTRDY//iI9mVUlhVoItSUZkBRO5eXpDhBIg65Fc+tA5jlc4+v",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-06 20:24:56",
+      "in_server": true
     }
   ]
 }
