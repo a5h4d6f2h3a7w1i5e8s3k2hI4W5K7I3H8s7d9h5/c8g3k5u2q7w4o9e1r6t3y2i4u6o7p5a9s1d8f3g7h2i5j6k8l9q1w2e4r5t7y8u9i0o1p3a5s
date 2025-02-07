@@ -240,6 +240,17 @@
       "sub_plan": "Weekly Warrior",
       "end_date": "2025-02-14 23:28:32",
       "in_server": false
+    },
+    {
+      "user_name": "NaemTomy",
+      "discord_user": "naeem6361",
+      "discord_user_id": "475403994794033152",
+      "user_img": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "discord_webhook_url": null,
+      "mac_address": "Aa/xBCBzydtR+47ej3ee0Ad15UJc6DkQrG6Zmz17SilIZf8OnJam8R3ciskIbfbo",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-08 08:15:52",
+      "in_server": false
     }
   ]
 }
