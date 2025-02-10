@@ -295,6 +295,17 @@
       "sub_plan": "Premium",
       "end_date": "2025-03-10 23:15:21",
       "in_server": true
+    },
+    {
+      "user_name": "fer3on",
+      "discord_user": "for3on0000",
+      "discord_user_id": "662486826816110600",
+      "user_img": "https://cdn.discordapp.com/avatars/662486826816110600/a_31e28b8f71c2468acef369fcceffe68f.gif?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1338632953944604675/zl87_BXiitpxN5A8OBiiCkm2ywLkwyliGyuz0zL1q7q1VWSg2FDao0FbWHIJXkR4PLJL",
+      "mac_address": "VxYxC6QqzV4e4G//kYH6ICYLXpgj2TOgeAN9ZMg8JUcz7X/v628Q68VyXck7zjPK",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-11 08:09:27",
+      "in_server": true
     }
   ]
 }
