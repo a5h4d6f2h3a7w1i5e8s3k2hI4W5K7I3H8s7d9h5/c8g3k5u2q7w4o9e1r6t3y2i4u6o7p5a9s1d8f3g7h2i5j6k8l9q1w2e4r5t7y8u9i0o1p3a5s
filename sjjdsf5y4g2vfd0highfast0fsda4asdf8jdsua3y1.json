@@ -284,6 +284,17 @@
       "sub_plan": "Free Trial",
       "end_date": "2025-02-10 14:18:26",
       "in_server": true
+    },
+    {
+      "user_name": "boyka",
+      "discord_user": "41x5",
+      "discord_user_id": "750890351379873894",
+      "user_img": "https://cdn.discordapp.com/avatars/750890351379873894/a_1fba61a134f7c0ae13750d0d38f98f14.gif?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1338498545019256920/0HncdVZY1vZ2qHwRuP82wnv7fuV-14YBPtY7LKLnHkMHdbKTbWb5vKuuStg1hhoyl_h2",
+      "mac_address": "Qv/nT6nLq4xxfHzv0LUU6jypXsRppH8odvg2vogjavEYMFiFzKyFheICWAZP/Act",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-10 23:15:21",
+      "in_server": true
     }
   ]
 }
