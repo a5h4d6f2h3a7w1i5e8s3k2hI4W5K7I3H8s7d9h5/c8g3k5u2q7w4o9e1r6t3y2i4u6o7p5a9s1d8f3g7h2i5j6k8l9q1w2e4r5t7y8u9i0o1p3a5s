@@ -273,6 +273,17 @@
       "sub_plan": "Free Trial",
       "end_date": "2025-02-10 11:17:24",
       "in_server": true
+    },
+    {
+      "user_name": "tefu",
+      "discord_user": "x.tuf",
+      "discord_user_id": "790690659249422376",
+      "user_img": "https://cdn.discordapp.com/avatars/790690659249422376/9b3e6a5371a76cc75701f439acbe13c3.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1338363425298055171/Gj65kHq0Kqr3E_oWQBZeHT8Retj6P6bW4pbmKs1miayG9ntSwl7n-ZNHjgDRdN6sUV3P",
+      "mac_address": "A4dt5SyNe6Jdp1dbTeqGxxg4AcMxJp2nNzDGEAt9WQ7jQjwkUYxqLde/ZE5mmf9Z",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-10 14:18:26",
+      "in_server": true
     }
   ]
 }
