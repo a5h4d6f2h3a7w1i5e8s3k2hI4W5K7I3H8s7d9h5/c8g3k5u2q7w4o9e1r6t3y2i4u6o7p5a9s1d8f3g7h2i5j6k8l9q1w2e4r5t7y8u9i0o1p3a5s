@@ -306,6 +306,17 @@
       "sub_plan": "Premium",
       "end_date": "2025-03-11 08:09:27",
       "in_server": true
+    },
+    {
+      "user_name": "3bnasserr",
+      "discord_user": "3bnasserr",
+      "discord_user_id": "887481190028812288",
+      "user_img": "https://cdn.discordapp.com/avatars/887481190028812288/d0b6334ecc5f0795713fffa28eb84df9.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1338659688254017536/e8Wv5qtsbZaGuI4EqOwUCsxrrGFKKj7ejFHI29oEm6T-xLqaNznAp10kaMN_mqdfrEce",
+      "mac_address": "fVk4iE9OUE+PFuwbl1i/0RDhXHOU4dGa0bOSkG+S3bKUr8SsY/MWA992TaIFS0NU",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-11 09:55:40",
+      "in_server": true
     }
   ]
 }
