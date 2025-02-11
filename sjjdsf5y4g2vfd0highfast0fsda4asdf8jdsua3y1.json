@@ -363,6 +363,17 @@
       "sub_plan": "Premium",
       "end_date": "2025-03-12 05:35:14",
       "in_server": false
+    },
+    {
+      "user_name": "sona",
+      "discord_user": "sona.ll",
+      "discord_user_id": "914987454212210739",
+      "user_img": "https://cdn.discordapp.com/avatars/914987454212210739/02dddf0efd150c7d5e3c0194d70aaedf.png?size=1024",
+      "discord_webhook_url": null,
+      "mac_address": "i4vd6kgp66ht/sfDJOcEQrpkGaXWB0rp20WTJG9JdSxcWe+kjjjC4MergyFj4//4",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-12 09:34:33",
+      "in_server": false
     }
   ]
 }
