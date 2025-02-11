@@ -244,6 +244,17 @@
       "in_server": true
     },
     {
+      "user_name": "Naruto PC 2",
+      "discord_user": "naruto00000pc2",
+      "discord_user_id": "726128368067543103000",
+      "user_img": "https://cdn.discordapp.com/avatars/726128368067543103/cb7560cb41fbd62365aa4dc8ca43a3e7.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/",
+      "mac_address": "MTRlarPWNM2t0I4t8XMSilaTKQTE6UuBcmv0Hy9gouXEEg6+LV2iXjOS5XeOFy6c",
+      "sub_plan": "Premium",
+      "end_date": "2025-03-13 16:56:13",
+      "in_server": true
+    },
+    {
       "user_name": "AhmedTomy",
       "discord_user": "tomy5445",
       "discord_user_id": "357564317463216139",
