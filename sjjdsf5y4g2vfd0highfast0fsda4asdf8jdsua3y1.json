@@ -327,6 +327,17 @@
       "sub_plan": "Premium",
       "end_date": "2035-02-11 09:55:40",
       "in_server": true
+    },
+    {
+      "user_name": "Legion",
+      "discord_user": "legion.0g",
+      "discord_user_id": "1077255404108648519",
+      "user_img": "https://cdn.discordapp.com/avatars/1077255404108648519/9ea546a7e5ddd4c9679c95a59a456954.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1338774363251544115/IpCxfsUErEMXEc_7luTdLu4ApCYsBSG6_8ky3F1eGopaNEHccRzfbKurcnh9U9Ogb_Z3",
+      "mac_address": "Rj2ahJsz7xbqAgt8ekaLMaTn/2lqkhGFZzmm/QzhgIAjZCs4jbHgYw5mm802p51C",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-11 17:31:21",
+      "in_server": true
     }
   ]
 }
