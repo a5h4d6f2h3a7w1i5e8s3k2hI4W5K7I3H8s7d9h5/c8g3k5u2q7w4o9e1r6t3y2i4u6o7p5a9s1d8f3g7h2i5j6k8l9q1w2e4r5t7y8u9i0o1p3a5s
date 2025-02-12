@@ -384,6 +384,17 @@
       "sub_plan": "Premium",
       "end_date": "2025-03-12 10:38:31",
       "in_server": true
+    },
+    {
+      "user_name": "Diablo",
+      "discord_user": "vr_690",
+      "discord_user_id": "1028774317900705942",
+      "user_img": "https://cdn.discordapp.com/avatars/1028774317900705942/f6cc90a4d5eca8c8f64ed3b3aeefbd44.png?size=1024",
+      "discord_webhook_url": null,
+      "mac_address": "EneUOx5HigcFsTMf5zyX7lg9EVARXKoEjHe7urwYtZVdWre4FZNlyu4bb2nS9JY3",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-12 23:42:09",
+      "in_server": false
     }
   ]
 }
