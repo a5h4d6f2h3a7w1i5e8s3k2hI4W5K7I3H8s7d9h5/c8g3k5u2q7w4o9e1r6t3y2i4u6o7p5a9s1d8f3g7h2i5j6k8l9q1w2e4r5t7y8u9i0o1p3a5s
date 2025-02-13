@@ -232,25 +232,14 @@
       "in_server": false
     },
     {
-      "user_name": "naruto",
+      "user_name": "Naruto",
       "discord_user": "naruto00000",
       "discord_user_id": "726128368067543103",
       "user_img": "https://cdn.discordapp.com/avatars/726128368067543103/cb7560cb41fbd62365aa4dc8ca43a3e7.png?size=1024",
       "discord_webhook_url": "https://discord.com/api/webhooks/1337006107977056281/Z31qteQ90Nt8eWqi8D_7k-sJ_9WZruJVCCnyrWBa7UoLz9ipgfOkbJLDXAhqjuGLoJ54",
       "mac_address": "YHygmDqQvQmekQMuTRDY//iI9mVUlhVoItSUZkBRO5eXpDhBIg65Fc+tA5jlc4+v",
       "sub_plan": "Premium",
-      "end_date": "2025-03-11 00:56:13",
-      "in_server": true
-    },
-    {
-      "user_name": "Naruto PC 2",
-      "discord_user": "naruto00000pc2",
-      "discord_user_id": "726128368067543103000",
-      "user_img": "https://cdn.discordapp.com/avatars/726128368067543103/cb7560cb41fbd62365aa4dc8ca43a3e7.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
-      "mac_address": "MTRlarPWNM2t0I4t8XMSilaTKQTE6UuBcmv0Hy9gouXEEg6+LV2iXjOS5XeOFy6c",
-      "sub_plan": "Premium",
-      "end_date": "2025-03-13 16:56:13",
+      "end_date": "2025-04-15 00:56:13",
       "in_server": true
     },
     {
