@@ -417,6 +417,17 @@
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-15 04:35:07",
       "in_server": true
+    },
+    {
+      "user_name": "bronze",
+      "discord_user": "yousif02035_32095",
+      "discord_user_id": "1261026025597567099",
+      "user_img": "https://cdn.discordapp.com/avatars/1261026025597567099/031020fa4ac0040916ba6501c7f35af5.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1340076911984115884/hk0a6OYdJtqE6tcI_wcTPAmJ5g4QFgxGGQZoIwV-Yt2jaf75zY3OB-CA6tgsGGlCyJmI",
+      "mac_address": "C3kPi5X+I2PF4HrMSfBTDco20IYTzXSOUZz6VwSPe7J9/qtna6WI1M6Hwy7SI7kG",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-15 07:47:13",
+      "in_server": true
     }
   ]
 }
