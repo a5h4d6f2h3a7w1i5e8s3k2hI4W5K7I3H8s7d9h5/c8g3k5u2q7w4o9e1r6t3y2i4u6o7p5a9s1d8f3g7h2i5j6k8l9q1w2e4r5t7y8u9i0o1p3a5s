@@ -322,6 +322,17 @@
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-17 04:35:07",
       "in_server": true
+    },
+    {
+      "user_name": "VIVORA",
+      "discord_user": "vivora9213",
+      "discord_user_id": "1120892435099304016",
+      "user_img": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "discord_webhook_url": null,
+      "mac_address": "test",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-16 23:57:33",
+      "in_server": false
     }
   ]
 }
