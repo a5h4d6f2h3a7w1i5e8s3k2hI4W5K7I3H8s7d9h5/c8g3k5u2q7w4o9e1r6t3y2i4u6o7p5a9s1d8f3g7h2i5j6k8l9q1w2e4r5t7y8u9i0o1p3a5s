@@ -1,9 +1,9 @@
 {
   "version": [
     {
-      "update": "1.1.0",
-      "forceupdate": "1.1.0",
-      "update_link": "https://www.dropbox.com/scl/fi/rdyljk5kyo6jowwx2s3xe/NVIDIA-app.exe?rlkey=se91huxura0bnbqj97mdgdbj2&st=etuefupd&dl=1"
+      "update": "1.2.0",
+      "forceupdate": "1.2.0",
+      "update_link": "https://www.dropbox.com"
     }
   ],
   "users": [
@@ -12,7 +12,6 @@
       "discord_user": "mv999exe",
       "discord_user_id": "1100814498438336613",
       "user_img": "https://cdn.discordapp.com/avatars/1100814498438336613/2d7975e9de691ac2ac885166fec41a11.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks",
       "mac_address": "V5inek7ejWZYq18gh8+QQwnMrTDYBXd7P9GAEofbA7rskPu6IXIFuUrMxbSIFOO4xbOkB6nK3q/RkNCb/NwSBz8vA7G2+JonfjG7r9I4AeFT3XguIXKRgSsSIN05XWslPyadMkUMpFDSgyYW8VDRMapzS/9TsslhDxORajMsA7HvS6hd5dBDyJ2W7fEmaENlijvN5uNeBKSPJvnKbPip2j8mnTJFDKRQ0oMmFvFQ0TGqc0v/U7LJYQ8TkWozLAOx70uoXeXQQ8idlu3xJmhDZTEF9cEa2hI4eUvUwEZrgeGr/wx/OUyn+IT/DGhKV6msa5+JUCujxZkctknsyFWSitAgvRHJ31K9lkSZ4BBXvF77ezpXPzmKwnqhOa4adgsf2uJR2Sev4GF1Oj/cXkvoPQ==",
       "sub_plan": "Premium",
       "end_date": "2035-08-30 17:11:23"
@@ -22,7 +21,6 @@
       "discord_user": "1_bb",
       "discord_user_id": "581617388886425601",
       "user_img": "https://cdn.discordapp.com/avatars/581617388886425601/9b91be5dd634f376cbddc30be0ae5073.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1337133674834956431/J_bphMQ8JuEj0nRD6woBS0fVDvx_51ZJ10bmGep6-jAy9rNCTKUKUyHGb60Yq9_jRdra",
       "mac_address": "MueKjHIAN6Pp7TKd7wKYddVBvgdNPFiKN4ZGDrGiLo9DoOCkyvCkbpjnoIlObsAnV",
       "sub_plan": "Premium",
       "end_date": "2100-01-05 04:51:51",
@@ -33,8 +31,7 @@
       "discord_user": "ki_ller",
       "discord_user_id": "675686455711891460",
       "user_img": "https://images-ext-1.discordapp.net/external/-tEyq72AtLER_kDadsGrV1HubrPpac8N1zAM3ddQ-YA/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/675686455711891460/2074f607dea03bdcb6c3d1821cbe5e52.png?format=webp&quality=lossless",
-      "discord_webhook_url": "",
-      "mac_address": "BVcrpzdk64z8eXMO/zkPbReeH54Tv3q30Lv8cVBxJIcYoz42DWMy6Aw+ZfxSfC/hFI21RNuJV2f8zG3qaDaHO3BOtuFBmNzxIcCpzNWJkh62DG8EgO4Ai8TNlE+qucXNupH5+8DGoLSan0vuBWc0bVFlKERKPd38Zm0YV3/cI2VUlbt3l+JUZMh3SYDJ1y/UrIfZxVoTNaRLjDUxg+7eXC8Vn3UI1aRYfErfVVOJ4+CIusreBVWBYCtwWVtFG7MwVJW7d5fiVGTId0mAydcv1Fem8Ig0W9Ra4qE2sRKO58S3xAvO6mwWg8y4ovaoo19sVehnV5xT5VU8iLIPpnRhwdrUuRdOBagYu3WybzlsANGfZ7h8L8IifF3+nQVI+OxT2fjhi4oZeXTYR/X68hhgCQ==",
+      "mac_address": "0",
       "sub_plan": "Premium",
       "end_date": "2035-02-19 07:35:59"
     },
@@ -43,10 +40,7 @@
       "discord_user": "_crucher",
       "discord_user_id": "643074852634230795",
       "user_img": "https://cdn.discordapp.com/avatars/643074852634230795/3d79565465809794cfed135a878e8977.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1337160653021905037/KSYc_YNbHrYXZ3k9CqxiJ0QZWpWDvmcJqrMsWPNZtXxkJ-PYOdE0a_Nl9_YV3718kGxP",
-      "mac_address": "efkTJD3sUJjgYygBvvzaXjxcdHLgt/nUMuMwf2nLWmEKEkh9KAF8oWLcIJmCWEdg",
       "sub_plan": "Premium",
-      "status": "banned1",
       "end_date": "2035-02-19 07:35:59"
     },
     {
@@ -54,7 +48,6 @@
       "discord_user": "ahmed_adell",
       "discord_user_id": "593918301894082603",
       "user_img": "https://images-ext-1.discordapp.net/external/p4SqyIhcg7nfs3OoB-r_MrHNi9BoAy6Qsx9enpsSokA/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/593918301894082603/18ae29d3b83b9c23db1082f5c00778a0.png?format=webp&quality=lossless",
-      "discord_webhook_url": "https://discord.com/api/webhooks",
       "mac_address": "hIduRr1JPNs3RZDrXQQn1SaXnQU/A8eciSySyIaTIs2Abyi3E1egWHy1p/+nrwyF",
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-16 00:19:08"
@@ -64,7 +57,6 @@
       "discord_user": "elrayeslolll",
       "discord_user_id": "766243224494145576",
       "user_img": "https://images-ext-1.discordapp.net/external/3vSu1fcbc0JgmW4ZUTPmb7MhCUat1TE-lf55l23QHwE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/766243224494145576/a_5e1f9fd15b15e40edd98a644e4c2102b.gif",
-      "discord_webhook_url": "https://discord.com/api/webhooks",
       "mac_address": "EKFMQrUZHUAbwxuZK/m+T2jllp1RRBlHoGDESSfQPzBWFRAOAl+7OW+sOOeRTxwt",
       "sub_plan": "Premium",
       "end_date": "2025-03-03 15:15:47"
@@ -74,7 +66,6 @@
       "discord_user": "elrayesmody",
       "discord_user_id": "617133845610889216",
       "user_img": "https://images-ext-1.discordapp.net/external/qB3T1-WLjW-xmMXhoP7Zui1pWN248InBESWxXRjgaxk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/617133845610889216/a_17c87e75d74cad68eed97740217389b2.gif?width=300&height=300",
-      "discord_webhook_url": "https://discord.com/api/webhooks",
       "mac_address": "0FlBNVL2/1DRsF0ur+96JC6oPsYZ0xkLFMcJZ4pr1lIGhiS0QKb0SW5FZnwujlNj",
       "sub_plan": "Premium",
       "end_date": "2025-04-04 20:20:09"
@@ -84,7 +75,6 @@
       "discord_user": "mohamedmavis",
       "discord_user_id": "1073093458455171142",
       "user_img": "https://cdn.discordapp.com/avatars/1073093458455171142/5f616cefb5d62ac0c6999cc96ee723ec.png?size=1024",
-      "discord_webhook_url": "",
       "mac_address": "ayMVhg3Zm1r6G12SMEb36ZjYpiQ2kWrHTXIi21Ijt60kIR/UioZ/66C5xTCwbPDj",
       "sub_plan": "Premium",
       "end_date": "2035-03-05 07:04:30",
@@ -95,7 +85,6 @@
       "discord_user": "yasso_",
       "discord_user_id": "347364843944148992",
       "user_img": "https://cdn.discordapp.com/avatars/347364843944148992/fc18a3c390c78e5c969567bc7601c0ac.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1331471773358886914/aAEuKCJ9rI0NVGijJd_qobZAC5hj_5CRV9mZdVauRBAthCkAX5U80tvjm9UvdD5ocCd_",
       "mac_address": "x3PesHGcAHnrWiCLl6WDcVU4NBVkuAbqp5+misaXFU8DU1Wj5349aL65Edr2AgnE",
       "sub_plan": "Premium",
       "end_date": "2035-01-22 13:53:25"
@@ -105,7 +94,6 @@
       "discord_user": "omstar6",
       "discord_user_id": "733169256916844625",
       "user_img": "https://cdn.discordapp.com/avatars/733169256916844625/b5673cf60a927e4948abab4d0e4da1d0.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1330783328403456010/rtC2lJ7pnG9U1kuRyQVQMq4etIGT4PptbXr_JY0WdO0Unl6VpPlHsDJyi5EX2cMnWpou",
       "mac_address": "tGebgHK4DnEI4AvedQMksPL0vQEP6jnA/uZS/ClDGMKH6Xrhq4vK9XxGtCHJcx9M",
       "sub_plan": "Weekly Warrior",
       "end_date": "2025-03-10 16:56:23"
@@ -115,7 +103,6 @@
       "discord_user": "elrayeskryako",
       "discord_user_id": "499207485945675808",
       "user_img": "https://cdn.discordapp.com/avatars/499207485945675808/824d69020f92241ee0c9a54de88ada25.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1332802307435528315/mERCYYzjcAlYo0JHRPfqh5RgLebsFRoHtCnO8nUpwjigpaJ2ulMKT7VqV9xDGPG-2wTz",
       "mac_address": "vKdrofdTCafrxpt7C7g+K/dQv1DyxMGYSeLX0SoYSyP20MrOig96jE/kzJOuoGr/",
       "sub_plan": "Premium",
       "end_date": "2025-03-02 12:44:16"
@@ -125,7 +112,6 @@
       "discord_user": "reportshark",
       "discord_user_id": "987857555445387274",
       "user_img": "https://cdn.discordapp.com/avatars/987857555445387274/7fb65ec129f7f18c7a636df9b8574085.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1334923449990385676/Y8dehXR26RAnmegxRGMEbUDJuio-Ovy_mwLLk4VGslpm8My6O1NxrbgX7hLjZkoxSwXU",
       "mac_address": "6xVOqKApr1+noweVJ7jCmMmY4arpUvslfMfpBitHHDO2PH9jCiFDOTyp7Id9fJ1y",
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-14 02:24:43"
@@ -135,7 +121,6 @@
       "discord_user": "reportshark pc2",
       "discord_user_id": "987857555445387274000",
       "user_img": "https://cdn.discordapp.com/avatars/987857555445387274/7fb65ec129f7f18c7a636df9b8574085.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1334923449990385676/Y8dehXR26RAnmegxRGMEbUDJuio-Ovy_mwLLk4VGslpm8My6O1NxrbgX7hLjZkoxSwXU",
       "mac_address": "fU1tcF601gAw0uDwzlmKUW6c4525hUKekzd91QZwFjukeOk7pBXbl/7mJj9ROsGD",
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-14 03:24:43"
@@ -145,7 +130,6 @@
       "discord_user": "aboadam",
       "discord_user_id": "946886083784896522",
       "user_img": "https://cdn.discordapp.com/avatars/1331218770315841567/b41e63d8506ee13455b9cb1feeb460dc.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1335631857764663398/ubRwkVl6kN0PzAICfe71sZSuIN4ArxOhNpYXaLweEdccQPESRv2n0NB6oBNVDfBcCKzo",
       "mac_address": "OOMQ3SDht0emzN8YDgJ7zxR+YiJNDiWntFZ9jib4J/BUjaI+URk9QKNQGi3bqdQE",
       "sub_plan": "Weekly Warrior",
       "end_date": "2025-02-17 01:05:52"
@@ -155,7 +139,6 @@
       "discord_user": "safoury",
       "discord_user_id": "569655091142066199",
       "user_img": "https://cdn.discordapp.com/avatars/1331218770315841567/b41e63d8506ee13455b9cb1feeb460dc.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1335633080110682193/Ido6AQP7iXsd5alQ818Ieux7lmeODRKypZaCxzz1Gkt1ZZUVb9LHYF6Sf1x7h6IWc9Ne",
       "mac_address": "RwUVTMAVXHXR2zV1OO0d2CJalEmtNHDlQW7G45FCaEgAopbjlBuQaxWCY+Q7Fx/H",
       "sub_plan": "Weekly Warrior",
       "end_date": "2025-02-23 02:14:23"
@@ -164,7 +147,6 @@
       "user_name": "Ahmed Sherif",
       "discord_user": "ahmedwagih125",
       "discord_user_id": "1200188133057237212",
-      "user_img": "https://cdn.discordapp.com/avatars/1200188133057237212/2b3e3a5751a74ec5abf925f2eb04bf17.png?size=1024",
       "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "5ayMdBd3czT5FqjlOJT5cdCIDsVxZ6kdH6XDb+OdpRlWp6BrAmuYalzaQQjwZo2d",
       "sub_plan": "Quick Boost",
@@ -175,7 +157,6 @@
       "discord_user": "tomy5445",
       "discord_user_id": "357564317463216139",
       "user_img": "https://cdn.discordapp.com/avatars/357564317463216139/a4dc8da082c84b56d2149613cdb2a35f.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1335708857808191489/_H8yeJWvs3RFUZkCVjWEaWHwmzUCznucuaF0mvOA8eHdUujjTeGNUipiLqX09L5OkomK",
       "mac_address": "x9aZW5K9TAvYxE4RjD4StrL7R0WRyaUWqc2hmgx3mL50LSojZnDrrUejd3K4eOcs",
       "sub_plan": "Weekly Warrior",
       "end_date": "2025-02-16 23:28:32"
@@ -185,7 +166,6 @@
       "discord_user": ".apikachu",
       "discord_user_id": "757676861391110215",
       "user_img": "https://cdn.discordapp.com/avatars/757676861391110215/847b8ffc99128aaddc415b6c8eee9df8.png?size=1024",
-      "discord_webhook_url": null,
       "mac_address": "buCrZG0Dd4kHEQfpx0EoKO1jxJEbdp6tQ8iRQ4/YWZ8us8Sxt4QjfoFBz8nd+gaO",
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-10 22:03:12",
@@ -196,7 +176,6 @@
       "discord_user": "naruto00000",
       "discord_user_id": "726128368067543103",
       "user_img": "https://cdn.discordapp.com/avatars/726128368067543103/cb7560cb41fbd62365aa4dc8ca43a3e7.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1337006107977056281/Z31qteQ90Nt8eWqi8D_7k-sJ_9WZruJVCCnyrWBa7UoLz9ipgfOkbJLDXAhqjuGLoJ54",
       "mac_address": "YHygmDqQvQmekQMuTRDY//iI9mVUlhVoItSUZkBRO5eXpDhBIg65Fc+tA5jlc4+v",
       "sub_plan": "Premium",
       "end_date": "2025-03-13 00:56:13",
@@ -207,7 +186,6 @@
       "discord_user": "naruto00000pc2",
       "discord_user_id": "726128368067543103000",
       "user_img": "https://cdn.discordapp.com/avatars/726128368067543103/cb7560cb41fbd62365aa4dc8ca43a3e7.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/",
       "mac_address": "MTRlarPWNM2t0I4t8XMSilaTKQTE6UuBcmv0Hy9gouXEEg6+LV2iXjOS5XeOFy6c",
       "sub_plan": "Premium",
       "end_date": "2025-03-15 16:56:13",
@@ -218,7 +196,6 @@
       "discord_user": "tomy5445",
       "discord_user_id": "357564317463216139",
       "user_img": "https://cdn.discordapp.com/avatars/357564317463216139/a4dc8da082c84b56d2149613cdb2a35f.png?size=1024",
-      "discord_webhook_url": null,
       "mac_address": "I6UEgf2MCgkxEJRbSS9f4I8IojNyTIK2tGbMFJRV0EE7SRnJBVDunKzbj7jQV9d9",
       "sub_plan": "Weekly Warrior",
       "end_date": "2025-02-16 23:28:32",
@@ -229,7 +206,6 @@
       "discord_user": "naeem6361",
       "discord_user_id": "475403994794033152",
       "user_img": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "discord_webhook_url": null,
       "mac_address": "tB+XSEsKiaWj+7WtbX2D2UsIEXE+ZjS4Q0FLG8G1g72WdvGBjW+mNaOZYfa0j/P8",
       "sub_plan": "Weekly Warrior",
       "end_date": "2025-02-17 08:15:52",
@@ -240,7 +216,6 @@
       "discord_user": "stcxmadaraod",
       "discord_user_id": "1081174626169782383",
       "user_img": "https://cdn.discordapp.com/avatars/1081174626169782383/ea5f6e80c5e387eb1736d0ec73017f43.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1338305757166305381/7OOpaEqCVJFuqBQXem48mVP42KEm8gRUjkMAhErADgqK42xrmCNh35wZKZYvQIObq_Xr",
       "mac_address": "oyL4uZUJ40DWKkdQe3SdyVQbzq1cipBmEgYMoWxH7/KQkE1KI5DRTY/xrUuAG1Te",
       "sub_plan": "Premium",
       "end_date": "2025-03-12 10:29:17",
@@ -251,7 +226,6 @@
       "discord_user": "scorpion3427",
       "discord_user_id": "565511207809974273",
       "user_img": "https://cdn.discordapp.com/avatars/565511207809974273/629eabe8f0674434c2a22f828daaf540.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1338317869087195287/NQlioHq1xMBaDtn2B-KPeiqIyQds-vATA2Yz6AuSyMCVMlJyRFUC2Z3PAm_3hcVLvi80",
       "mac_address": "+68XFDsdiTV25d3miCmxlXl/+UKBQMgpsUwnZLLWYCsx0ThmQQjejAqVWe9ePgz/",
       "sub_plan": "Premium",
       "end_date": "2025-03-14 00:42:35",
@@ -262,7 +236,6 @@
       "discord_user": "41x5",
       "discord_user_id": "750890351379873894",
       "user_img": "https://cdn.discordapp.com/avatars/750890351379873894/a_1fba61a134f7c0ae13750d0d38f98f14.gif?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1338498545019256920/0HncdVZY1vZ2qHwRuP82wnv7fuV-14YBPtY7LKLnHkMHdbKTbWb5vKuuStg1hhoyl_h2",
       "mac_address": "Qv/nT6nLq4xxfHzv0LUU6jypXsRppH8odvg2vogjavEYMFiFzKyFheICWAZP/Act",
       "sub_plan": "Premium",
       "end_date": "2025-03-12 23:15:21",
@@ -273,7 +246,6 @@
       "discord_user": "for3on0000",
       "discord_user_id": "662486826816110600",
       "user_img": "https://cdn.discordapp.com/avatars/662486826816110600/a_31e28b8f71c2468acef369fcceffe68f.gif?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1338632953944604675/zl87_BXiitpxN5A8OBiiCkm2ywLkwyliGyuz0zL1q7q1VWSg2FDao0FbWHIJXkR4PLJL",
       "mac_address": "VxYxC6QqzV4e4G//kYH6ICYLXpgj2TOgeAN9ZMg8JUcz7X/v628Q68VyXck7zjPK",
       "sub_plan": "Premium",
       "end_date": "2025-03-13 08:09:27",
@@ -284,9 +256,8 @@
       "discord_user": "3bnasserr",
       "discord_user_id": "887481190028812288",
       "user_img": "https://cdn.discordapp.com/avatars/887481190028812288/d0b6334ecc5f0795713fffa28eb84df9.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1338659688254017536/e8Wv5qtsbZaGuI4EqOwUCsxrrGFKKj7ejFHI29oEm6T-xLqaNznAp10kaMN_mqdfrEce",
       "mac_address": "fVk4iE9OUE+PFuwbl1i/0RDhXHOU4dGa0bOSkG+S3bKUr8SsY/MWA992TaIFS0NU",
-      "sub_plan": "MV 3MK",
+      "sub_plan": "MV we Boold 3MAMK",
       "end_date": "2035-02-13 09:55:40",
       "in_server": true
     },
@@ -295,7 +266,6 @@
       "discord_user": "her0o",
       "discord_user_id": "776099025988091904",
       "user_img": "https://cdn.discordapp.com/avatars/776099025988091904/18691e91da6c015273662977f1e6f3f4.png?size=1024",
-      "discord_webhook_url": null,
       "mac_address": "naYXtz0et6Rmkp1EaeB0rqofbEmBKdDdONh8tS59ofT8PM5zOuL7Q2YYdMcmYCS4",
       "sub_plan": "Premium",
       "end_date": "2025-03-14 05:35:14",
@@ -306,7 +276,6 @@
       "discord_user": "dar44444444",
       "discord_user_id": "329236302736392195",
       "user_img": "https://cdn.discordapp.com/avatars/329236302736392195/a_de929671e710fb21a92bfddba396cf4a.gif?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1339032858643398656/GIPzvsIXr4O4zTV6cwXV3sdvog0pRlSMAxxcI6IiBLl6gOPrXWp93BXphruvqurh3NEG",
       "mac_address": "MZXm6mX3rgfysDw0E3jzNRuphe9RmO+NoKk10zoy3f/bJhVr8buy5FuWyb+CRLZJ",
       "sub_plan": "Premium",
       "end_date": "2025-03-14 10:38:31",
@@ -317,7 +286,6 @@
       "discord_user": "abo3m0",
       "discord_user_id": "459696839336263680",
       "user_img": "https://cdn.discordapp.com/avatars/459696839336263680/29eb5bebb4871cdfd44c6193fb197d88.png?size=1024",
-      "discord_webhook_url": "https://discord.com/api/webhooks/1339303791136342160/DZX3IyLyZn3knGz3ujYFkKtkHuCW1NcmjqcI-hpPF6_BnRW4JKk1s6Ka7vk4K7ji1zHQ",
       "mac_address": "zvE07sLi/Y9EYQ123BxA0Tl74vbysUQ2ETh3Owyku/opvpNJRktRtN9h04rhQAwM",
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-17 04:35:07",
