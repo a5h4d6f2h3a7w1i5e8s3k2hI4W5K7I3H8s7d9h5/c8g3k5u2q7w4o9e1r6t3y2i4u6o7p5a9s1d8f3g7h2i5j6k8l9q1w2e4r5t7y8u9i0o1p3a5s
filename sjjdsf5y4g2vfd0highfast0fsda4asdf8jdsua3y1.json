@@ -346,6 +346,17 @@
       "sub_plan": "Free Trial",
       "end_date": "2025-02-19 04:07:59",
       "in_server": false
+    },
+    {
+      "user_name": "sona",
+      "discord_user": "sona.ll",
+      "discord_user_id": "914987454212210739",
+      "user_img": "https://cdn.discordapp.com/avatars/914987454212210739/02dddf0efd150c7d5e3c0194d70aaedf.png?size=1024",
+      "discord_webhook_url": null,
+      "mac_address": "uq6+cHwiKAN2VwNHUdEZxpQK3YfbIt9KCgh2kMYVOl7znnJue0VEpetBqVR+sYBDrnmqD8Vd1O038mnKynckF6JC4tBaHQHITkpcV2Tk4Dsgs4Mj6vPcla3dT/gZ41TimZKtfOT/vVL30gipV/O0Z3DAEqh64aECnt4eCJeDH1fypr8tUjeN+AZsLijq0daTO87ujdPLb1Kz9T1xavhXPIW+IOv8dkiAWR+flvvM17MfU7hNQUVpmHDI2MWubelEwpirwbq8IeFKxdWVrxgsXoExJtuKINhgzVb6v0nC2JK/CP7x1G0hVb44b6frA+RECojv27rWok6LWPd0j/eH3gqStnBr7lkA0GFboqVmmTtvDKAVVwLRqdbC6/HQCa79",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-19 08:19:30",
+      "in_server": false
     }
   ]
 }
