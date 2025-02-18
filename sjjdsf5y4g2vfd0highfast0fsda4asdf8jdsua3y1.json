@@ -167,9 +167,9 @@
       "discord_user": ".apikachu",
       "discord_user_id": "757676861391110215",
       "user_img": "https://cdn.discordapp.com/avatars/757676861391110215/847b8ffc99128aaddc415b6c8eee9df8.png?size=1024",
-      "mac_address": "buCrZG0Dd4kHEQfpx0EoKO1jxJEbdp6tQ8iRQ4/YWZ8us8Sxt4QjfoFBz8nd+gaO",
+      "mac_address": "cHdvWr5/8ZaGn6ZvZzUlAobk7V2mKw+3BhvmjAMBWxzHs/MF3PdIPVa7FkcK7By6mB8pvlAzdrITOztygDCxM6Pqvm06ZeTI6LioetZwe2UR7lSeacSr7Ca66quasKpiLXTg0yrCe0zIVrzyGydBq0lFSVtf25TuU5YVVcUkfdsLeRXPZ+XXrKNYzp4yYOqWA/hNBpRQXaOKPJtP3WpiDlsG0nIkVtb6raTLiOR3ctNJRUlbX9uU7lOWFVXFJH3bRfGn/Tn8eL5m8rkPO/CjNm+4J+MSl0jIT0rxSwoy+xmpICHMDrZKZdz57gh+M/EN6BwLs4eUeTrXiHnhIScI6VaxIefOwG5dPtv8ehi1fLlUltuQamgVssh5a43enjBi",
       "sub_plan": "Quick Boost",
-      "end_date": "2025-02-10 22:03:12",
+      "end_date": "2025-02-20 20:03:12",
       "in_server": false
     },
     {
@@ -323,6 +323,17 @@
       "mac_address": "WroLfj1515v2LeyJeJsSKVobaCBU5UvFCR6gHcVJdtP66tFYLmXwLreZDx4cD8GjwAEd+MJZKcZc0G/3TBeSWzofmAr1XFEgKEHMPphKx/6tMeZu1WCJHAnk+kXrAzXUjqCGqawpcNxfq6RDOk++7fP1gHo/Z3ciJ5ImLVmEZDUwQjaIoAHu222YhDL+4StQRtdODYvn41Pt+1TEfu+sIgaTUs4dGJ2BVGtX4X6PcODFAgBw8kH7ApkyqkSaQlzOXYXJsVIx0TSnoW8K+kqgQ9Tpfk9e+3xLfWVM4tJXROMlQvhnGtuAOCEm+Bk2IVf1mCqruf2sskmNnEAAJVjni1WBJpMmZRWYtCWC8FHpsY/Pduk3utRlMjaf/XLVMlUc",
       "sub_plan": "Free Trial",
       "end_date": "2025-02-17 06:26:28",
+      "in_server": true
+    },
+    {
+      "user_name": "Rooster",
+      "discord_user": "rooster",
+      "discord_user_id": "430553497587548171",
+      "user_img": "https://cdn.discordapp.com/avatars/790690659249422376/d639b070bddce21c045a7e2cb6b39935.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1340781364982583296/H8OJho1ia8RVth76_Fyo-Zwoz1qVuoszNlxqinErcyMSg_vfux8oBdpsV91wG9GX1B7p",
+      "mac_address": "LOooCGAQke59Nls3+4lJ1JDfeQrkKWUWuK1yhx6Y7OLuNBdtB52QXi+iMvhXArX246YcTFWQFcEP12zNSS9OZUa8OrhJ0p/RO6aOoleENLGP9HUnvrb92JVd88/pWFCyEeLwzB5kZhTpLyy4XpZSALQBvPeV01FiVNk2tHnadugSHMFDgMgFLggOYIL/8Ehpcy6DvHe5jAX+6KMFLV2yFq4bc6pYe6ha9Ws/+ZjVBsbu9dHg/+qRcywsAuX3xl4MjnCx7Alf3ex7Q5QSkmtG3LpP4s25AFAFsBbVHUkiyKLySeejRoDUvz1paqQYttWUfiwNdxOaPIaN/4IALhZJ/QRb0Tz41zaVJ/wLiUrQRMHUQStJyXLN+aA+ZuCL+S2k",
+      "sub_plan": "Premium",
+      "end_date": "2025-03-19 20:26:28",
       "in_server": true
     },
     {
