@@ -388,6 +388,17 @@
       "sub_plan": "Premium",
       "end_date": "2025-03-21 18:14:10",
       "in_server": false
+    },
+    {
+      "user_name": "3shry",
+      "discord_user": "3a4ry__13642",
+      "discord_user_id": "1179463390213722172",
+      "user_img": "https://cdn.discordapp.com/avatars/1179463390213722172/50d3b8785dd534f45845982f8f910820.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1341999629423874068/ax437id-qcGfUaNUABWNlqlzXNYf0FXQ-CX8nEaKNVzN5Y0xNkv5wGXUWxhBFJuWdpwE",
+      "mac_address": "EkyHibtFYOTllM9odIJW2HsGij/5rpp2iNaEpxhRBYulBPYY1KI2+I0TauddxrFwjMvlK9wgPX1jAjtTTrm1UC3fztMmkItCMT812HRR96uxdZrwzqItZcfOmdBb/rElCSLNKFnSfjZbqdNMGLJuDAjTAwfODLxTT19SIdvKwNJsxmE/OsRe/XScpqtiMShWHDI5TfKYVks5wetO6z/vRBJpps4tr1UFKzdidO8n0ZEI0wMHzgy8U09fUiHbysDSbMZhPzrEXv10nKarYjEoVqEqGbLVXzPjgV9E4ysvbbj0DEn3V0VZNLn87YvgWs5gE1IZuSj7xtxtq7zKY1IEa1a7jBO4hlUfXunCBKxUh8lNt59vtpzUXbJu4im7NMiw",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-20 15:07:25",
+      "in_server": true
     }
   ]
 }
