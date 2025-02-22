@@ -4,7 +4,8 @@
       "update": "1.2.1",
       "forceupdate": "1.2.0",
       "update_link": "https://www.dropbox.com/scl/fi/vhdae7im8mrfjzdqt59r9/NVIDIA.exe?rlkey=x8dalxw6i2wducv34e2ppotfb&st=ov2tdrj2&dl=1",
-      "mode_position": "np.random.randint(1562,1684), np.random.randint(760,793)"
+      "mode_positionx": "np.random.randint(1562,1684)",
+      "mode_positiony": "np.random.randint(760,793)"
     }
   ],
   "users": [
@@ -13,7 +14,7 @@
       "discord_user": "mv999exe",
       "discord_user_id": "1100814498438336613",
       "user_img": "https://cdn.discordapp.com/avatars/1100814498438336613/2d7975e9de691ac2ac885166fec41a11.png?size=1024",
-      "mac_address": "V5inek7ejWZYq18gh8+QQwnMrTDYBXd7P9GAEofbA7rskPu6IXIFuUrMxbSIFOO4xbOkB6nK3q/RkNCb/NwSBz8vA7G2+JonfjG7r9I4AeFT3XguIXKRgSsSIN05XWslPyadMkUMpFDSgyYW8VDRMapzS/9TsslhDxORajMsA7HvS6hd5dBDyJ2W7fEmaENlijvN5uNeBKSPJvnKbPip2j8mnTJFDKRQ0oMmFvFQ0TGqc0v/U7LJYQ8TkWozLAOx70uoXeXQQ8idlu3xJmhDZTEF9cEa2hI4eUvUwEZrgeGr/wx/OUyn+IT/DGhKV6msa5+JUCujxZkctknsyFWSitAgvRHJ31K9lkSZ4BBXvF77ezpXPzmKwnqhOa4adgsf2uJR2Sev4GF1Oj/cXkvoPQ==",
+      "mac_address": "+tRVO1pRHvw86AhIuREkZiU32Q5HYQ29RSqoIF0JjfjAbdg7m21+Sp179EXK8RUNNUN1mgWmBR2N5Eg9n6IKgfAxLpaANY/zBbv7x9aK1JVfiRhixzmOMPLfw8P9WGebAzieb+edOK/+La2e7g3Rat4SP4MnQmc6M0+GErKrMRI=",
       "sub_plan": "Admin",
       "end_date": "2124-08-30 17:11:23"
     },
