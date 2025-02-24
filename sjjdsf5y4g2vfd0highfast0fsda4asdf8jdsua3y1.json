@@ -401,6 +401,17 @@
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-22 15:07:25",
       "in_server": true
+    },
+    {
+      "user_name": "omstaar",
+      "discord_user": "omstar6",
+      "discord_user_id": "733169256916844625",
+      "user_img": "https://cdn.discordapp.com/avatars/733169256916844625/829f8809afdccc88f1c9d0bc9685791f.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1343379237540990988/ttZRftDuKIr5BNrVidnBQ87sE5sWZIOKzrrhQEOwV0aRk0AHGQuJDMU-lcsohI8WouhD",
+      "mac_address": "0cv09Yh7rG1gvnw5h95WKBJcApGYKkjew+MHXxvNeqaJQ3Pwd9oPtYxIkVBKaH547gAKqGtLDdtL/j9DP4k1tEPkVTHTrr0Eg42TpQPReNkXgkXAvJetoWtDA5wSEPevemsrm4ys+1Rxw5UcXjL8uZMG+89dJU/GfM4gmD+havY=",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-24 10:29:29",
+      "in_server": true
     }
   ]
 }
