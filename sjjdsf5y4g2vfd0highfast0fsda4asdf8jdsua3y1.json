@@ -412,6 +412,17 @@
       "sub_plan": "Quick Boost",
       "end_date": "2025-02-27 21:29:04",
       "in_server": true
+    },
+    {
+      "user_name": "DeathNote",
+      "discord_user": "gmev",
+      "discord_user_id": "1243390681288933477",
+      "user_img": "https://cdn.discordapp.com/avatars/1243390681288933477/08cd1371f91322182097c49805c05a71.png?size=1024",
+      "discord_webhook_url": null,
+      "mac_address": "ItA7mEAUWsaxVE5rsyLZV4MG2IcBIxlO4M0dT/y9Q5s+q8+f6HBE/cb1q2rA/ZB5t9S8V/UXX18pjWsazSZ+lz2O4dzwChcRhwUSiSmhJgc6/SnwIEGqzhdjHjWNYBM/3vCdpP+YOcbLhGOrwdjeqpXqcNxsPU0h3afKL18a5ZLKXiMD8T/F1tounO05IxwHYjUy+6nfyxtuMoljnYXasw==",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-26 05:19:38",
+      "in_server": false
     }
   ]
 }
