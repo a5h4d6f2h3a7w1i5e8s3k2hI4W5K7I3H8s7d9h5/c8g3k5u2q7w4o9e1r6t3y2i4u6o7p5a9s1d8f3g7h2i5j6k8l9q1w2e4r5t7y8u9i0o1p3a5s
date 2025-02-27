@@ -445,6 +445,17 @@
       "sub_plan": "Free Trial",
       "end_date": "2025-02-27 00:00:01",
       "in_server": true
+    },
+    {
+      "user_name": "naadem",
+      "discord_user": "nadeem5340",
+      "discord_user_id": "536627391754141709",
+      "user_img": "https://cdn.discordapp.com/avatars/536627391754141709/41206686009b794ec4148691131cedc2.png?size=1024",
+      "discord_webhook_url": null,
+      "mac_address": "KUy/pS2mY+LL01aQ0M4Sz56w14fAc0U0VG1xo6MEv+vTxz8TJxQBDdiPdoBIXO5Z4t50c5qXmKxF9mcUgTpR8lmrG+dm+rnt5NoVMIHIvLqtvPO/5FDchkftPb5gHg8h6J9r5hnHhu5/XFot+WFKw2FaD87R4oESmx9aH01ES9xmIignpmqRxBsiIBJLk/JBnlCWqrrpGXVrCuiT9KrnAw==",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-28 06:18:19",
+      "in_server": false
     }
   ]
 }
