@@ -456,6 +456,17 @@
       "sub_plan": "Quick Boost",
       "end_date": "2025-03-02 06:18:19",
       "in_server": false
+    },
+    {
+      "user_name": "TORBA",
+      "discord_user": "torbaa",
+      "discord_user_id": "337916633257476106",
+      "user_img": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1345927653307318284/ZXR2_EvMO2jPKGwH2wpILCqfac0vE6WB0j5wYZPcPucw-swt-L-O2W84yH5W-EK7zLSA",
+      "mac_address": "Sl3koUCFJlctBsmP9eriBAhEr9jMID8ZORFxzGeTTyef0/yex3u9w2ajQqla5x89hhruljp6dRTRoiHvER9JYV0iThHXCMzKPLqGIsWlUrVDSzBAUB2eBoyK0FkAtrgDd4/xelNRq0VarLTxhJhz6zr3QXe28EDu0dBhpIZozWPB3RAcI40o1Ietgl5TUkcs",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-03-03 11:15:58",
+      "in_server": true
     }
   ]
 }
