@@ -467,6 +467,17 @@
       "sub_plan": "Premium",
       "end_date": "2025-04-02 11:15:58",
       "in_server": true
+    },
+    {
+      "user_name": "bahr",
+      "discord_user": "keropraty",
+      "discord_user_id": "1050911279331672155",
+      "user_img": "https://cdn.discordapp.com/avatars/1050911279331672155/01cd038e2365b500547261c48724015b.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1346534584153669723/IeJ1T7QS1YX8F3UGEeUY_f6hK4gQHWZH_8qSGnCZDhdB1cyOllX6oFi5Snn6O_0geTk6",
+      "mac_address": "ehPamZJqMW+KbddR31bIPuSNiA7R7BoSEXDyghDvXHvg+/PKr6QFzKGdKSfFRozlX1nCyz+49Wsa6We/5FP1CLWmxthlOyy8tNRSnt98bzanjeEeN7QdaXjiLrqmNz0YhampS7dV/LrVVX1cOmcwnA==",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-03-05 03:27:42",
+      "in_server": true
     }
   ]
 }
