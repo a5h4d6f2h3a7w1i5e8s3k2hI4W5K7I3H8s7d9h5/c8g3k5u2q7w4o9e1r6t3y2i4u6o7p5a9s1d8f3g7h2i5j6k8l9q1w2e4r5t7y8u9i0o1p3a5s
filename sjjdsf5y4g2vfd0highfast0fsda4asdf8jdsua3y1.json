@@ -489,6 +489,17 @@
       "sub_plan": "Weekly Warrior",
       "end_date": "2025-03-18 01:56:50",
       "in_server": true
+    },
+    {
+      "user_name": "sakata",
+      "discord_user": "set_sakata",
+      "discord_user_id": "647938879206457344",
+      "user_img": "https://cdn.discordapp.com/avatars/647938879206457344/17430c92713468ce41e187183a14336d.png?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1353384298803368117/5E9i0M6f7LlzJEqs63Rs1HKFoUfM2EFBUSx1va0Z5SVtTvzynYmLflZ8RSLzU5JHGdbz",
+      "mac_address": "JxgcKM1Oo83vpjSflGlUqBox3mpwSmhHCRKRE7qke/mO6jEPYBKIYV3+UcpxQHliPyHd4BwUeXCHgo1RpXOG5ioTeaqZ8NYenvqchaeH/LIvzN8JcDUa0DWGNsr+mVC+6CV+qpq8iorJDsokI1yOp2QdEhYOVZj+xeZ2yFE0b2SVPyEMVW6IA1l05UD+Qq0Dkpt9rwdG9b6ZzRn7sjNuJsj3F+XXUxLtL18evbfDzqg=",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-03-24 01:06:01",
+      "in_server": true
     }
   ]
 }
